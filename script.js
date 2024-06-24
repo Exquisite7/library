@@ -85,12 +85,3 @@ closeDialogButton.addEventListener('click', () => {
   formContainer.close();
 });
 
-addBookToLibrary('1984', 'George Orwell', 328, true);
-addBookToLibrary('1984', 'George Orwell', 328, true);
-addBookToLibrary('1984', 'George Orwell', 328, true);
-addBookToLibrary('1984', 'George Orwell', 328, true);
-addBookToLibrary('1984', 'George Orwell', 328, true);
-addBookToLibrary('1984', 'George Orwell', 328, true);
-addBookToLibrary('1984', 'George Orwell', 328, true);
-addBookToLibrary('1984', 'George Orwell', 328, true);
-addBookToLibrary('1984', 'George Orwell', 328, true);
